@@ -2,9 +2,15 @@ $transition-speed: 600ms;
 $breakpoint-sm: 576px;
 $breakpoint-md: 768px;
 
+.row,
+.col {
+  margin: 0;
+  padding: 0;
+}
+
 .mainContent {
   margin-left: 5rem;
-  padding-left: 1rem;
+  //   padding-left: 1rem;
 }
 
 .customNavbar {
@@ -51,7 +57,7 @@ $breakpoint-md: 768px;
 }
 
 .svg-inline--fa {
-  color: var(--dark-gray);
+  color: var(--gray);
   transition: $transition-speed;
 }
 
