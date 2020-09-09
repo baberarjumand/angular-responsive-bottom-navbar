@@ -2,6 +2,12 @@
 
 This project implements an animated navbar, which is fixed at the bottom for smaller viewports and transforms into a sidebar/sidenav for larger viewports.<br>
 
+A live demo of this project can be viewed here:<br>
+https://angular-responsive-bottom-navbar.stackblitz.io
+
+You can experiment with the source code, right in your browser, here:<br>
+https://stackblitz.com/edit/angular-responsive-bottom-navbar?file=src/app/app.component.ts
+
 This navbar/sidebar was developed using guidance from the following Fireship tutorial:<br>
 https://fireship.io/lessons/css-responsive-icon-navbar/
 
