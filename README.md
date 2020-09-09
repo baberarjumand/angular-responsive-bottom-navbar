@@ -1,5 +1,8 @@
 # AngularResponsiveBottomNavbar
 
+This navbar was developed using guidance from the following Fireship tutorial:<br>
+https://fireship.io/lessons/css-responsive-icon-navbar/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
 
 ## Development server
