@@ -1,6 +1,8 @@
 # AngularResponsiveBottomNavbar
 
-This navbar was developed using guidance from the following Fireship tutorial:<br>
+This project implements an animated navbar, which is fixed at the bottom for smaller viewports and transforms into a sidebar/sidenav for larger viewports.<br>
+
+This navbar/sidebar was developed using guidance from the following Fireship tutorial:<br>
 https://fireship.io/lessons/css-responsive-icon-navbar/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
