@@ -1,1 +1,29 @@
 /* You can add global styles to this file, and also import other style files */
+
+:root {
+  --light-gray: #ededed;
+  --dark-gray: #191919;
+  --light-purple: #3c3cd6;
+  --dark-purple: #263667;
+}
+
+* {
+  font-family: "Courier New", Courier, monospace;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body::-webkit-scrollbar {
+  width: 0.25rem;
+}
+
+// body::-webkit-scrollbar-track {
+//   background: var(--dark-purple);
+// }
+
+body::-webkit-scrollbar-thumb {
+  background: var(--light-purple);
+}
