@@ -13,7 +13,12 @@ const routes: Routes = [
       { path: 'tab1', component: Tab1Component },
       { path: 'tab2', component: Tab2Component },
       { path: 'tab3', component: Tab3Component },
+      { path: '', redirectTo: 'tab1', pathMatch: 'full' },
     ],
+  },
+  {
+    path: '**',
+    redirectTo: '',
   },
 ];
 
